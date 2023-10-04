@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width-device-width, initial-scale=1.0">
+        <meta author="Maciel Oliveira">
+
+        <title>Exercício da Aula<title>
+
+    </head>>
+
+<body>
+    <style>
+        #a{
+            position: absolute;
+            width: 200;
+            height: 200;
+            background-color: darkgray;
+        }
+
+        #b{
+            position: absolute;
+            width: 200;
+            height: 200;
+            background-color: darkgreen;
+            top: 100;
+            margin-top: 100;
+        }
+        #c{
+            position: absolute;
+            width: 200;
+            height: 200;
+            background-color: darkred;
+            top: 200;
+            margin-top: 200;
+        }
+        #d{
+            position: absolute;
+            width: 200;
+            height: 200;
+            background-color: darkorchid;
+            top: 300;
+            margin-top: 300;
+        }
+        #e{
+            position: absolute;
+            width: 200;
+            height: 200;
+            background-color: darkblue;
+            top: 400;
+            margin-top: 400;
+        }
+
+    </style>
+
+</body>
+
+</html>
